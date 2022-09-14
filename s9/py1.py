@@ -1,0 +1,1 @@
+print('hello')  # print is a builtin function so no need to import
